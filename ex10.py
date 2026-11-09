@@ -1,0 +1,2 @@
+
+print("Espada\nEscudo\nPoção")

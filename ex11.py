@@ -1,0 +1,6 @@
+print("========================")
+print("|    MENU PRINCIPAL    |")
+print("|  1. Iniciar Jogo     |")
+print("|  2. Carregar Jogo    |")
+print("|  3. Sair             |")
+print("========================")
